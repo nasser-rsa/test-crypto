@@ -5,7 +5,7 @@
 Para poder ejecutar la aplicación, es necesario seguir los siguientes pasos:
 
 1. Descargar e instalar Python (versión 3.8 o superior).
-2. Clonar el repositorio que contiene el archivo `main.py` usando el comando git clone `https://github.com/nasser-rsa/test-crypto.git` en la línea de comandos o descargar el archivo directamente desde el repositorio.
+2. Clonar el repositorio que contiene el archivo `main.py` usando el comando `git clone https://github.com/nasser-rsa/test-crypto.git` en la línea de comandos o descargar el archivo directamente desde el repositorio.
 3. Instalar las librerías necesarias utilizando el archivo `requirements.txt` mediante el comando `pip install -r requirements.txt`.
 
 ## Pruebas
